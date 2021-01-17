@@ -42,7 +42,7 @@
     "millify": "^3.5.0",
     "nuxt-ackee": "^2.0.0",
     "nuxt-edge": "^2.15.0-26844550.78ba9945",
-    "postcss": "^7",
+    "postcss": "^8",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "ts-loader": "^8.0.14",
     "ts-node": "^9.1.1",
